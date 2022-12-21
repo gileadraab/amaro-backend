@@ -17,7 +17,7 @@
       "tags": [string]
  }, 
  ```
- * **Saída:** "Produtos adicionados com sucesso" caso não haja um produco cadastrado com a mesma id ou erro em caso de duplicidade: "já há um produto cadastrado com a ID ${product ID}: ${product Name}"
+ * **Saída:** "Produtos adicionados com sucesso" caso não haja um produco cadastrado com a mesma id ou erro em caso de duplicidade: "já há um produto cadastrado com a ID {product ID}: {product Name}"
 
 <br/>
 
@@ -36,7 +36,7 @@
     </element>
 </products>, 
 ```
-* **Saída:** "Produtos adicionados com sucesso" caso não haja um produco cadastrado com a mesma id ou erro em caso de duplicidade: "já há um produto cadastrado com a ID ${product ID}: ${product Name}"
+* **Saída:** "Produtos adicionados com sucesso" caso não haja um produco cadastrado com a mesma id ou erro em caso de duplicidade: "já há um produto cadastrado com a ID {product ID}: {product Name}"
 
 <br/>
  
